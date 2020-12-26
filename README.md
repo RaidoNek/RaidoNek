@@ -1,6 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaidoNek&count_private=true&show_icons=true&text_color=718096&bg_color=ffffff" />
 
 ### Hi there 👋
+### I am Pawner and Full-Stack developer
+### Wanna see my private plugins? Watch down
 
 <!--
 **RaidoNek/RaidoNek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
