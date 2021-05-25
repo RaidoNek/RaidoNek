@@ -1,5 +1,3 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=RaidoNek&count_private=true&show_icons=true&text_color=718096&bg_color=ffffff" />
-
 ### Hi there 👋
 ### I am beginning webdev
 ### Wanna see my private plugins? Watch down
