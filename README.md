@@ -1,8 +1,8 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaidoNek&show_icons=true&theme=dark" />
 
 ### Hi there 👋
-### 🤔 TypeScript & C++
-### ⚡ Interested in cybersecurity, game hacking and backend development
+### 🤔 C++ & TypeScript
+### ⚡ Interested in Cybersecurity, Gamehacking and Backend development
 ### 🔭 Currently rewriting my Personal site to Laravel 9
 
 <!--
