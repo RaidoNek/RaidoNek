@@ -1,9 +1,9 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=RaidoNek&show_icons=true&theme=dark" />
 
 ### Hi there 👋
-### 🤔 Full-stack beginner (C++ & PHP & TS)
-### ⚡ Also interested in security, game hacking
-### 🔭 I’m currently working on Personal site rewrite to Laravel 9
+### 🤔 TypeScript & C++
+### ⚡ Interested in cybersecurity, game hacking and backend development
+### 🔭 Currently rewriting my Personal site to Laravel 9
 
 <!--
 **RaidoNek/RaidoNek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
