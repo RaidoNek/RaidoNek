@@ -2,8 +2,7 @@
 
 ### Hi there 👋
 ### 🤔 C++ & TypeScript
-### ⚡ Interested in Cybersecurity, Gamehacking and Backend development
-### 🔭 Currently rewriting my Personal site to Laravel 9
+### ⚡ Interested in Cybersecurity, Gamehacking
 
 <!--
 **RaidoNek/RaidoNek** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
